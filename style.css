@@ -124,7 +124,7 @@ body {
 }
 
 .home p {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   color: #000000;
 }
 
@@ -201,7 +201,7 @@ body {
 .gallery,
 .rsvp,
 .gifts {
-  padding-top: 10rem;
+  padding-top: 5rem;
   padding-bottom: 8rem;
 }
 
@@ -220,7 +220,7 @@ body {
 .gallery p,
 .rsvp p,
 .gifts p {
-  font-size: 1rem;
+  font-size: 1.3rem;
   font-weight: 300;
 }
 
@@ -459,7 +459,7 @@ footer li {
   }
   .no-rek{
     /* text-align: center; */
-    margin-top: 60px; /* Jarak antara teks dan gambar */
+    margin-top: 55px; /* Jarak antara teks dan gambar */
     font-size: 1.8rem;
     /* right: 90px; */
   }
@@ -528,7 +528,7 @@ footer li {
 /* logo chip bri */
 #chip-image {
   position: absolute;
-  top: 35px; /* Sesuaikan dengan jarak vertikal dari atas */
+  top: 30px; /* Sesuaikan dengan jarak vertikal dari atas */
   right: 195px; /* Sesuaikan dengan jarak horizontal dari kanan */
   width: 34px;
 }
